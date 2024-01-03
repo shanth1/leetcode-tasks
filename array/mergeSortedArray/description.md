@@ -1,4 +1,4 @@
-## Task name
+## Merge Sorted Array
 
 > #easy
 
