@@ -10,4 +10,4 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var maxDepth = function (root) {};
+const maxDepth = root => Math.floor(Math.log2(root.length) + 1);
