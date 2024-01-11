@@ -1,6 +1,7 @@
 ## Merge Sorted Array
 
 > #easy
+> #array
 
 #### Description
 

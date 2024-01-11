@@ -1,6 +1,7 @@
 ## Maximum Depth of Binary Tree
 
 > #easy
+> #recursion
 
 #### Description
 

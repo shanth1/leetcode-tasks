@@ -1,6 +1,7 @@
 ## Valid Palindrome
 
 > #easy
+> string
 
 #### Description
 

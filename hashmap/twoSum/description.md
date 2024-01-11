@@ -1,6 +1,7 @@
 ## Two Sum
 
-#easy
+> #easy
+> #array
 
 #### Description
 
